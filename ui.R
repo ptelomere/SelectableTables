@@ -1,4 +1,4 @@
-needHack <- FALSE
+needHack <- FALSE 
 
 library(shiny)
 shinyUI(pageWithSidebar(
